@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores the Netflix dataset to understand the platform's content strategy. I analyzed the evolution of content over time, the balance between Movies and TV Shows, and the geographical distribution of productions.
 
-**Key Question:** How has Netflix's library evolved, and what are the dominant characteristics of its content?
+**Key Question:** How has Netflix's library evolved, and what are the dominant characteristics of it?
 
 ## Tools & Technologies
 * **Python** (Pandas, Matplotlib, Seaborn)
